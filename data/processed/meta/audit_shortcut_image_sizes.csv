@@ -1,0 +1,4 @@
+﻿split,image_width,image_height,num_images
+test,2048,2048,230
+train,2048,2048,1604
+val,2048,2048,458

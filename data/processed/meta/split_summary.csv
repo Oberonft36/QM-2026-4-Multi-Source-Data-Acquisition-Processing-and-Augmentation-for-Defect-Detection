@@ -1,0 +1,4 @@
+﻿split,num_images,num_boxes,avg_boxes_per_image
+train,1604,2503,1.5605
+val,458,694,1.5153
+test,230,362,1.5739

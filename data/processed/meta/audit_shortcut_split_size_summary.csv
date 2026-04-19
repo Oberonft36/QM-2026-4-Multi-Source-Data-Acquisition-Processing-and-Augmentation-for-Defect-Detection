@@ -1,0 +1,4 @@
+﻿split,num_images,num_unique_sizes,min_width,max_width,min_height,max_height
+test,230,1,2048,2048,2048,2048
+train,1604,1,2048,2048,2048,2048
+val,458,1,2048,2048,2048,2048

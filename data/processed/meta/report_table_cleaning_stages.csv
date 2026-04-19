@@ -1,0 +1,7 @@
+﻿stage,num_images,num_boxes
+raw_parse,2292,3564.0
+clean_stage1,2292,3559.0
+square_pad,2292,3559.0
+final_split_total,2292,3559.0
+train_aug_success,1601,1601.0
+train_aug_failed,3,

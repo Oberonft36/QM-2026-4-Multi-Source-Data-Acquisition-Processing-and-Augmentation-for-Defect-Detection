@@ -1,0 +1,5 @@
+﻿image_path,image_width,image_height,class_name,class_id,xmin,ymin,xmax,ymax,source_annotation,is_valid_raw,image_filename,xml_file,bbox_w,bbox_h,min_side
+D:\project_root\data\raw\archive\7\img_02_3436816100_00150.jpg,2048,1000,7_yiwu,7,1421,1,1465,17,voc_xml,True,img_02_3436816100_00150.jpg,D:\project_root\data\raw\archive\lable\img_02_3436816100_00150.xml,44,16,16
+D:\project_root\data\raw\archive\2\img_02_425389800_00017.jpg,2048,1000,1_chongkong,1,2030,317,2048,349,voc_xml,True,img_02_425389800_00017.jpg,D:\project_root\data\raw\archive\lable\img_02_425389800_00017.xml,18,32,18
+D:\project_root\data\raw\archive\2\img_02_425613500_00597.jpg,2048,1000,1_chongkong,1,2032,486,2048,523,voc_xml,True,img_02_425613500_00597.jpg,D:\project_root\data\raw\archive\lable\img_02_425613500_00597.xml,16,37,16
+D:\project_root\data\raw\archive\2\img_07_3403405400_00930.jpg,2048,1000,1_chongkong,1,1,864,15,919,voc_xml,True,img_07_3403405400_00930.jpg,D:\project_root\data\raw\archive\lable\img_07_3403405400_00930.xml,14,55,14
