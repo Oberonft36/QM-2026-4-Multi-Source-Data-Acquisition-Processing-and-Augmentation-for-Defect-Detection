@@ -5,7 +5,7 @@
 ├─.idea
 │
 ├─data
-│  └─processed
+│  └─processed（仅提交meta部分，images和labels未提交）
 │      └─meta
 │         # 处理后的元数据与统计结果目录
 │         # 主要存放：
