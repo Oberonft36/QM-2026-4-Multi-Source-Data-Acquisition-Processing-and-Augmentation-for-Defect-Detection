@@ -1,10 +1,12 @@
 # Dataset Report
 
 ## 0.提交项目概览
+```
+.
 ├─.idea
 │
 ├─data
-│  └─processed（仅提交meta部分，images和labels未提交）
+│  └─processed
 │      └─meta
 │         # 处理后的元数据与统计结果目录
 │         # 主要存放：
@@ -48,6 +50,7 @@
 │     # 用于展示 padding 到正方形后，图像与 bbox 是否同步正确更新
 │
 └─scripts #核心复现代码
+```
 
 ## 1. 数据集概述
 
